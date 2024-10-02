@@ -98,4 +98,4 @@ Feel free to fork this project and submit pull requests with improvements or bug
 All contributions will be thoroughly reviewed to maintain the originality and integrity of the project.
 
 ## Samples
-I have provided sample files to test if you want to after setup.
+I have provided sample files of different types to test if you want to after setup.
