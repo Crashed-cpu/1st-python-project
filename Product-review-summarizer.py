@@ -154,7 +154,7 @@ def main(input_type, input_data):
         print(summary)
         return
     
-    print("Summary of Sentiments:")
+    print("\n\nSummary of Sentiments:")
     for sentiment, count in summary.items():
         print(f"{sentiment}: {count}")
     
