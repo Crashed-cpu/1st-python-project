@@ -96,3 +96,6 @@ please provide appropriate attribution to the original author.
 ### Contributing
 Feel free to fork this project and submit pull requests with improvements or bug fixes.
 All contributions will be thoroughly reviewed to maintain the originality and integrity of the project.
+
+## Samples
+I have provided sample files to test if you want to after setup.
